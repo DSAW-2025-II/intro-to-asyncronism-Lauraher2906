@@ -12,7 +12,7 @@ const buttonNext = document.querySelector('.button-next');
 
 let searchPokemon = 1;
 const API_BASE = 'https://pokeapi.co/api/v2';
-const errorImg = './error-404.png';
+const errorImg = 'Images/error-404.png';
 
 
 const fetchPokemon = async (pokemon) => {
