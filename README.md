@@ -8,7 +8,10 @@
 - **Código:** 0000337853
 - **Correo:** lauraherrod@unisabana.edu.co
 ## Enlace de despliegue
-[Ver página desplegada](https://dsaw-2025-ii.github.io/intro-to-asyncronism-Lauraher2906/)
+[Ver página desplegada (GitHub)](https://dsaw-2025-ii.github.io/intro-to-asyncronism-Lauraher2906/)
+
+## Enlace de despliegue
+[Ver página desplegada (Vercel)](https://intro-to-asyncronism-lauraher2906.vercel.app)
 
 ## Funcionalidades
 
